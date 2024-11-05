@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.problema002;
+package com.mycompany.problema003;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author USUARIO
  */
-public class Problema002 {
+public class Problema003 {
 
     public static void main(String[] args) {
          Scanner gastos = new Scanner(System.in);
@@ -43,7 +43,5 @@ public class Problema002 {
         
         System.out.println("El total de gastos de "+nombre1+","+nombre2+" y "
                 +nombre3+" es: "+total);
-        
     }
 }
-ma
